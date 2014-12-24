@@ -27,4 +27,6 @@ tw2sp.json Traditional Chinese (Taiwan Standard) to Simplified Chinese with Main
 
 使用是应该根据自己的需要和上述说明来选择合适的json配置文件.
 
-文档下载地址：http://www.wqbuyer.com/demo/blog/1.html
+文档下载地址：http://www.wqbuyer.com/demo/blog/1.html.
+
+64位 ubuntu 适用.
